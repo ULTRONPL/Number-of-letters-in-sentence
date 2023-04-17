@@ -1,12 +1,13 @@
 # Number-of-letters-in-sentence
 computer program that count how many letters is in the typed sentence
+-
 <br>
 <br>
 In Windows PowerShell
 <br>
 this code will count space
 <br>
-("Hello, world!".ToCharArray() | Measure-Object -Character).Characters
+- ("Hello, world!".ToCharArray() | Measure-Object -Character).Characters
 <br>
 this code will not count space
 <br>
