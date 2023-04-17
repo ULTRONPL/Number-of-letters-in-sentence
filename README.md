@@ -8,3 +8,7 @@ In Windows PowerShell
 <br>
 In Windows CMD
 -
+
+
+
+Program that count words in input sentence (the file you can download in repository "word numer.bat")
