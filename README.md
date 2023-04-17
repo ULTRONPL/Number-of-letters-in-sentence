@@ -9,8 +9,9 @@ this code will count space
 - ("Hello, world!".ToCharArray() | Measure-Object -Character).Characters
 <br>
 this code will not count space
+<br>
 - ("Hello, world!" -replace " ", "").ToCharArray().Length
-- <br>
+<br>
 you just replace "Hello, world!" with your sentence
 <br>
 <br>
