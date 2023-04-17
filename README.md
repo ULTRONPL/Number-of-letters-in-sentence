@@ -6,6 +6,8 @@ In Windows PowerShell
 <br>
 - ("Hello, world!".ToCharArray() | Measure-Object -Character).Characters
 <br>
+you just must replace "Hello, world!" with your sentence
+<br>
 In Windows CMD
 <br>
 - The file in the repository "letters numer no space.bat" will count the letters in the sentece (without space)
