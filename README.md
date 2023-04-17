@@ -5,6 +5,7 @@ computer program that count how many letters is in the typed sentence
 In Windows PowerShell
 <br>
 - ("Hello, world!".ToCharArray() | Measure-Object -Character).Characters
+<br>
 you just must replace "Hello, world!" with your sentence
 <br>
 <br>
