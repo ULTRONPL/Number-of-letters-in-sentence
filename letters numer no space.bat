@@ -1,5 +1,5 @@
 @echo off
-set /p input="Enter sentence: "
+set /p input="Wpisz zadnie: "
 set len=0
 setlocal enabledelayedexpansion
 for /L %%i in (0,1,1000) do (
@@ -13,5 +13,5 @@ for /L %%i in (0,1,1000) do (
     )
 )
 :done
-echo The number of letters in the sentence is: %len%
+echo Liczba liter w zdaniu to: %len%
 pause
