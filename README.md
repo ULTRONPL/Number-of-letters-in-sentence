@@ -17,6 +17,8 @@ this code will not count space
 you just replace "Hello, world!" with your sentence
 <br>
 <br>
+<br>
+<br>
 In Windows CMD
 <br>
 - The file in the repository "letters numer no space.bat" will count the letters in the sentece (without space)
