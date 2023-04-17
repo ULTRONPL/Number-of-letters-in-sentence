@@ -9,6 +9,7 @@ this code will count space
 <br>
 - ("Hello, world!".ToCharArray() | Measure-Object -Character).Characters
 <br>
+<br>
 this code will not count space
 <br>
 - ("Hello, world!" -replace " ", "").ToCharArray().Length
