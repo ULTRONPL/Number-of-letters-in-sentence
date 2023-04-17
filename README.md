@@ -6,7 +6,7 @@ In Windows PowerShell
 <br>
 - ("Hello, world!".ToCharArray() | Measure-Object -Character).Characters
 <br>
-you just must replace "Hello, world!" with your sentence
+you just replace "Hello, world!" with your sentence
 <br>
 <br>
 In Windows CMD
