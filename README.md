@@ -8,9 +8,9 @@ In Windows PowerShell
 <br>
 In Windows CMD
 <br>
-The file is in the repository "letters numer.bat" will count the letters in the sentence (with space)
-<br>
 The file in the repository "letters numer no space.bat" will count the letters in the sentece (without space)
+<br>
+The file is in the repository "letters numer.bat" will count the letters in the sentence (with space)
 <br>
 <br>
 <br>
